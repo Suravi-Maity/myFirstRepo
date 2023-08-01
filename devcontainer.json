@@ -1,0 +1,8 @@
+{
+  "name": "My Codespace",
+  "dockerFile": "Dockerfile",
+  "extensions": ["ms-python.python", "dbaeumer.vscode-eslint"],
+  "settings": {
+    "python.pythonPath": "/usr/bin/python3"
+  }
+}
